@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Р📖️ The official documentation repository for the Er subset of the R programming language (unofficially known as Я)
